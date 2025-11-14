@@ -17,12 +17,16 @@ classifiers = [
 ]
 dependencies = [
     "dotenv>=0.9.9",
+    "ipykernel>=7.1.0",
     "loguru>=0.7.3",
+    "matplotlib>=3.10.7",
     "mkdocs",
+    "pandas>=2.3.3",
     "pip",
     "pytest",
     "python-dotenv",
     "ruff",
+    "seaborn>=0.13.2",
     "tqdm>=4.67.1",
 ]
 requires-python = "~=3.13.0"
